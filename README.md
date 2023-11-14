@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [a multi-purpose discord bot!](https://github.com/NeeSucksAtCoding/DiscordBot)
 
-- 🌱 I’m currently learning **Web Development (HTML, CSS, JS, Django) looking to learn Graphics Programming**
+- 🌱 I’m currently learning **Game Development and Computer Vision**
 
 - 💬 Ask me about **C++ and Python**
 
